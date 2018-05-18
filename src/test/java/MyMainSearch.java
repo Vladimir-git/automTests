@@ -47,7 +47,7 @@ public class MyMainSearch {
 //        System.out.println(CollectionUtils.containsAll(list1,list2));
 //        ArrayList<DayInfo> list3 = (ArrayList<DayInfo>) CollectionUtils.retainAll(list1,list2);
 //        System.out.println(list3.size()); // количество совпавших элементов
-//        System.out.println(list1.equals(list2)); // их список
+//        System.out.println(list1.equals(list2)); //  их список
     }
 
     @AfterTest
